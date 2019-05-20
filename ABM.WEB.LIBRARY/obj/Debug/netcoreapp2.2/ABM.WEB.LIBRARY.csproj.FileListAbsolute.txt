@@ -1,9 +1,0 @@
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\bin\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.deps.json
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\bin\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.dll
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\bin\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.pdb
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.csproj.CoreCompileInputs.cache
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.AssemblyInfoInputs.cache
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.AssemblyInfo.cs
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.dll
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.pdb
-C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\ABM.WEB.LIBRARY\obj\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.csprojAssemblyReference.cache

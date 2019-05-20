@@ -25,7 +25,6 @@
       "ABM.API/1.0.0": {
         "dependencies": {
           "ABM.API.LIBRARY": "1.0.0",
-          "ABM.WEB.LIBRARY": "1.0.0",
           "Microsoft.AspNetCore": "2.2.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
@@ -351,17 +350,6 @@
         },
         "compile": {
           "ABM.API.LIBRARY.dll": {}
-        }
-      },
-      "ABM.WEB.LIBRARY/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore": "2.2.0"
-        },
-        "runtime": {
-          "ABM.WEB.LIBRARY.dll": {}
-        },
-        "compile": {
-          "ABM.WEB.LIBRARY.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3693,11 +3681,6 @@
       "hashPath": "system.linq.parallel.4.3.0.nupkg.sha512"
     },
     "ABM.API.LIBRARY/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ABM.WEB.LIBRARY/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

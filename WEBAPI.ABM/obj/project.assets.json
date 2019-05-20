@@ -4730,19 +4730,6 @@
         "runtime": {
           "bin/placeholder/ABM.API.LIBRARY.dll": {}
         }
-      },
-      "ABM.WEB.LIBRARY/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Microsoft.AspNetCore": "2.2.0"
-        },
-        "compile": {
-          "bin/placeholder/ABM.WEB.LIBRARY.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ABM.WEB.LIBRARY.dll": {}
-        }
       }
     }
   },
@@ -12949,17 +12936,11 @@
       "type": "project",
       "path": "../ABM.API.LIBRARY/ABM.API.LIBRARY.csproj",
       "msbuildProject": "../ABM.API.LIBRARY/ABM.API.LIBRARY.csproj"
-    },
-    "ABM.WEB.LIBRARY/1.0.0": {
-      "type": "project",
-      "path": "../ABM.WEB.LIBRARY/ABM.WEB.LIBRARY.csproj",
-      "msbuildProject": "../ABM.WEB.LIBRARY/ABM.WEB.LIBRARY.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "ABM.API.LIBRARY >= 1.0.0",
-      "ABM.WEB.LIBRARY >= 1.0.0",
       "Microsoft.AspNetCore >= 2.2.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -12974,11 +12955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\ABM.API.csproj",
+      "projectUniqueName": "Q:\\DEVELOPMENT\\GIT PROJECTS\\ABM.SOLUTION\\WEBAPI.ABM\\ABM.API.csproj",
       "projectName": "ABM.API",
-      "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\ABM.API.csproj",
+      "projectPath": "Q:\\DEVELOPMENT\\GIT PROJECTS\\ABM.SOLUTION\\WEBAPI.ABM\\ABM.API.csproj",
       "packagesPath": "C:\\Users\\Administrador.PC-QUINTELA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\obj\\",
+      "outputPath": "Q:\\DEVELOPMENT\\GIT PROJECTS\\ABM.SOLUTION\\WEBAPI.ABM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13003,11 +12984,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj": {
-              "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj"
-            },
-            "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj": {
-              "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj"
+            "Q:\\DEVELOPMENT\\GIT PROJECTS\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj": {
+              "projectPath": "Q:\\DEVELOPMENT\\GIT PROJECTS\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj"
             }
           }
         }
