@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\WEBAPI.ABM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj",
+        "projectName": "ABM.API.LIBRARY",
+        "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj",
+        "packagesPath": "C:\\Users\\Administrador.PC-QUINTELA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrador.PC-QUINTELA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj",
+        "projectName": "ABM.WEB.LIBRARY",
+        "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj",
+        "packagesPath": "C:\\Users\\Administrador.PC-QUINTELA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrador.PC-QUINTELA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\WEBAPI.ABM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\WEBAPI.ABM.csproj",
+        "projectName": "WEBAPI.ABM",
+        "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\WEBAPI.ABM.csproj",
+        "packagesPath": "C:\\Users\\Administrador.PC-QUINTELA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\WEBAPI.ABM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrador.PC-QUINTELA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj": {
+                "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.API.LIBRARY\\ABM.API.LIBRARY.csproj"
+              },
+              "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj": {
+                "projectPath": "C:\\Users\\Administrador.PC-QUINTELA\\source\\repos\\ABM.SOLUTION\\ABM.WEB.LIBRARY\\ABM.WEB.LIBRARY.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

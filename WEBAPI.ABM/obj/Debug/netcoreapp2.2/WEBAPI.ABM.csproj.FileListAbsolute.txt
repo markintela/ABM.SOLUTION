@@ -1,0 +1,33 @@
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.csproj.CoreCompileInputs.cache
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorAssemblyInfo.cache
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorAssemblyInfo.cs
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.AssemblyInfoInputs.cache
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.AssemblyInfo.cs
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.deps.json
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.runtimeconfig.json
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.runtimeconfig.dev.json
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.dll
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.pdb
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorTargetAssemblyInfo.cache
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.dll
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.pdb
+Q:\DEVELOPMENT\GIT PROJECTS\ABM SOLUTION\WCF.ABM\ABM.SOLUTION\WCF.ABM\WCF.ABM\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.csprojAssemblyReference.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.deps.json
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.runtimeconfig.json
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.runtimeconfig.dev.json
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.dll
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\WEBAPI.ABM.pdb
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.dll
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\ABM.WEB.LIBRARY.pdb
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.csprojAssemblyReference.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorAssemblyInfo.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorAssemblyInfo.cs
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.AssemblyInfoInputs.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.AssemblyInfo.cs
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.csproj.CopyComplete
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.dll
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\obj\Debug\netcoreapp2.2\WEBAPI.ABM.pdb
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\ABM.API.LIBRARY.dll
+C:\Users\Administrador.PC-QUINTELA\source\repos\ABM.SOLUTION\WEBAPI.ABM\bin\Debug\netcoreapp2.2\ABM.API.LIBRARY.pdb
